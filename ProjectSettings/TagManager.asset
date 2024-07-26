@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Egg
+  - Chicken
+  - GIFT_Basic_Bullet
+  - GIFT_Forks_Bullet
+  - GIFT_Segment_Bullet
+  - Bullet
+  - Cannon
+  - Enemy
+  - Center
+  - GIFT
+  - Red_Chicken
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Panel
+    uniqueID: 84604801
+    locked: 0
+  - name: Top
+    uniqueID: 1825567361
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 483931133
+    locked: 0

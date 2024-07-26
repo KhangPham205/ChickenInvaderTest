@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/StartScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/_Scenes/Wave_1.unity
+    guid: 6767ce9705b552d41a3bef6fec77138e
+  - enabled: 1
+    path: Assets/_Scenes/Wave_2.unity
+    guid: 137692723c4969944a3b9de16692f65b
+  - enabled: 1
+    path: Assets/_Scenes/Wave_3.unity
+    guid: 98fba9aeec0e24446b898b8476a7a75f
+  - enabled: 1
+    path: Assets/_Scenes/Wave_4.unity
+    guid: f3f663cd76e34a74f9ba0baf9cf5daac
+  - enabled: 1
+    path: Assets/_Scenes/Wave_5.unity
+    guid: 8899c3fee75a5164c85e98590f2f4183
+  - enabled: 1
+    path: Assets/_Scenes/Wave_6.unity
+    guid: f70fd12df97b23742a51e1b949a2bab2
+  - enabled: 1
+    path: Assets/_Scenes/Wave_7.unity
+    guid: 7c95c17b3a8965c46bea81efbe8e24de
+  - enabled: 1
+    path: Assets/_Scenes/Wave_8.unity
+    guid: 36fc6c3300d1ec445bc6d7940dd277ab
+  - enabled: 1
+    path: Assets/_Scenes/Wave_9.unity
+    guid: c8e56d45a626187439212ae1aa3d3fca
+  - enabled: 1
+    path: Assets/_Scenes/Victory.unity
+    guid: 56ceb4b4f48ce6b4ab414714dc9bc23b
+  - enabled: 1
+    path: Assets/_Scenes/EndScene.unity
+    guid: 7bbf685b86bcb9042b4ae0309568b80b
+  m_configObjects: {}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: be8b3ac0029154d8fbbe676e5dc5f5e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Chicken: {instanceID: 0}
+  - GIFT: {fileID: 5802272442275122127, guid: e8cc5bc18824748438e17692ec2cdfc3, type: 3}
+  - GIFT_Basic_Bullet: {fileID: 5802272442275122127, guid: e8cc5bc18824748438e17692ec2cdfc3, type: 3}
+  - GIFT_Segment_Bullet: {fileID: 7529114608449965877, guid: 75b75515df814c144b5c8e863f077d18, type: 3}
+  - GIFT_Forks_Bullet: {fileID: 4872584083038896431, guid: b2e662d86dd7679458e0c49339d85664, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
